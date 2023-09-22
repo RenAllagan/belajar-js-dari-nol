@@ -1,0 +1,1 @@
+alert("Tugas Latihan 4 Sudah selesai saya kerjakan ya pakkkk");
